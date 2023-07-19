@@ -1,4 +1,3 @@
-#define pulse 9
 #define ImuPin1 12
 #define ImuPin2 13
 
